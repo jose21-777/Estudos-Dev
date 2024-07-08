@@ -1,0 +1,54 @@
+body{
+   background-color: rgb(136, 136, 136);
+}
+.paragraph{
+    background-color: #000;
+    color: black;
+    padding: 50px;
+}
+/*IDS*/
+ #exclusive-title{
+   font-family: fantasy;
+    background-image: url(../img/back\ tittle.jpg);
+    border-radius: 60px;
+    background-position: center;
+    color:#FFFF;
+    padding: 40px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+   }
+.boas-vindas{
+   color: #000;
+   padding: 10px;
+   text-align: center;
+}
+.intuiuto{
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 25px;
+   color: #000;
+   text-align: center;
+}
+.contexto{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+   padding: 25px;
+   color: #000;
+   text-align: center;
+}
+.linkedin{
+   text-align: center;
+   position: relative;
+
+}
+.instagram{
+   text-align: center;
+   position: relative;
+}
+.h3{
+color: #000;
+}
+.gifs{
+   text-align: center;
+   box-sizing: border-box;
+   display: none;
+}
